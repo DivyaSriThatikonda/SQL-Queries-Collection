@@ -1,6 +1,6 @@
 # SQL-Queries-Collection
 This repository contains a collection of SQL scripts for managing and analyzing data. It includes examples of database creation, table design, and data manipulation using various SQL queries such as window functions, aggregate functions, join operations, subqueries, and more.
-This repository contains SQL scripts for managing and analyzing data related to three tables: studies, programmer, and software Tables
+This repository contains SQL scripts for managing and analyzing data related to three tables: studies, programmer, and software Tables.
 # Studies Table
 Columns:
 PNAME: Name of the student,
