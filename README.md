@@ -6,7 +6,7 @@ Columns:
 PNAME: Name of the student,
 INSTITUTE: Institute where the student studies,
 COURSE: Course name,
-COURSE_FEE: Fee for the course
+COURSE_FEE: Fee for the course.
 
 # Programmer Table
 Columns:
@@ -25,4 +25,4 @@ TITLE: Title of the software,
 DEVELOPIN: Programming language used for development,
 SCOST: Development cost of the software,
 DCOST: Distribution cost of the software,
-SOLD: Number of copies sold
+SOLD: Number of copies sold.
